@@ -4,7 +4,7 @@
 
 ## 🔗 لینک پروژه
 
-**[باز کردن صفحه‌ی اتصال](https://YOUR-VERCEL-LINK.vercel.app)**
+**[باز کردن صفحه‌ی اتصال](https://youtube-connect-flame.vercel.app/?customer_id=test123)**
 
 ## این صفحه چه کاری انجام می‌دهد؟
 
@@ -31,7 +31,3 @@
 - Google OAuth 2.0
 - n8n (پردازش اتصال و ذخیره‌ی توکن)
 - Supabase
-
-## نکته
-
-برای لغو دسترسی می‌توانید از بخش [Google Account Permissions](https://myaccount.google.com/permissions) ارتباط ربات را قطع کنید.
